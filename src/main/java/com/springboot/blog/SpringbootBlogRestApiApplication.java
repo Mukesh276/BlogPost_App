@@ -8,7 +8,6 @@ public class SpringbootBlogRestApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootBlogRestApiApplication.class, args);
-		//Git check
 	}
 
 }
